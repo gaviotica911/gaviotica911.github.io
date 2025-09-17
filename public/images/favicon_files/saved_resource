@@ -1,0 +1,43 @@
+
+var ftGUID_7922496="619098C4F7A715";
+var ftConfID_7922496="0";
+var ftParams_7922496="ftOBA=1&ft_domain=emojipedia.org&ft_ifb=1&ft_agentEnv=0&ft_referrer=https://emojipedia.org/&us_privacy=${US_PRIVACY}&site_url=https://emojipedia.org/&pub_id=1&sup_platform=1&cachebuster=350677.03359275695";
+var ftKeyword_7922496="";
+var ftCustom_7922496="";
+var ftSection_7922496="";
+var ftSegment_7922496="anju";
+var ftSegmentList_7922496=[{s:'anju'}];
+var ftRuleMatch_7922496="0";
+var ftTimestamp_7922496="1733976212";
+var ftGeoC2_7922496="co";
+var ftGeoState_7922496="dc";
+var ftGeoCity_7922496="bogota";
+var ftISP_7922496="etb - colombia";
+var ftSpeed_7922496="broadband";
+var ftConnType_7922496="wifi";
+var ftDMA_7922496="-1";
+var ftLong_7922496="-74.09";
+var ftLat_7922496="4.75";
+var ftPostal_7922496="111161";
+var ftTimeZone_7922496="-500";
+var ftMobileCarrier_7922496="";
+var ftImp7922496 = {};
+ftImp7922496.privacy = "x";
+ftImp7922496.guidAge = "-1";
+ftImp7922496.impID = "8AD3D610-F1BA-5204-0C2E-87AA5959805F";
+ftImp7922496.duid = "FT:619098C4F7A715";
+
+ftImp7922496.ft_tpplid = "";
+ftImp7922496.ft_c = {};
+ftImp7922496.gdpr = "";
+ftImp7922496.gdpr_consent = "";
+ftImp7922496.gdpr_pd = "";
+ftImp7922496.oob_consent = "";
+ftImp7922496.gdprStoredConsent = "";
+ftImp7922496.us_privacy = "!!US_PRIVACY!";
+ftImp7922496.gpc = "";
+
+ftImp7922496.jsAppend = "1";
+var ftCreativeId_7922496 = "5010325";
+(function(){var tag=document.getElementById("ft_servedby_7922496")||function(s){return s[s.length-1]}(document.getElementsByTagName("script")),js=document.createElement("script");js.src="https://ajs-assets.ftstatic.com/ftUtils.js";js.id="ftscript_m7922496";js.setAttribute("name","ftscript_m7922496");tag.parentNode.insertBefore(js,tag)})();window.fTChecker=window.fTChecker||function(id){if(!id)return false;id=""+id;if(window.hasOwnProperty("ftUtils")){window["ft"+id]=Object.assign({},window.ftUtils.common);window["ft"+id].getBannerConfig(id)}else(function(id){window.setTimeout(function(){window.fTChecker(id)},50)})(id)};window.fTChecker("7922496");
+
