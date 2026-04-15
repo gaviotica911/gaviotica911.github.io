@@ -19,14 +19,14 @@ const Hero = () => {
               <span className="relative w-2 h-2 rounded-full bg-emerald-400">
                 <span className="absolute inset-0 rounded-full bg-emerald-400 animate-ping"></span>
               </span>
-              Available for work
+              In a continuous process of growth and learning
             </div>
           </div>
           <h2 className="headline-1 max-w-[15ch] sm:max-w-[20ch] lg:max-w-[15ch] mt-5 mb-8 lg:mb-10">
             Empowering Progress Through Data and Technology
           </h2>
           <div className="flex items-center gap-3">
-            <a href="/images/cv_Gabriela_García_Suárez.pdf" download>
+            <a href="/images/cv_gabriela_garcia.pdf" download>
               <ButtonPrimary label="Download CV" icon="download" />
               {""}
             </a>
